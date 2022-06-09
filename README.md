@@ -1,2 +1,2 @@
 # Alyssa_nodejs
-Alyssa App develop in NodeJS with Express
+Alyssa App developed in NodeJS with Express
